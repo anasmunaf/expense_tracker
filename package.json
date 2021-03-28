@@ -2,7 +2,6 @@
   "name": "expense_tracker",
   "version": "0.1.0",
   "private": true,
-  "build": "react-scripts --max_old_space_size=100000 build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
